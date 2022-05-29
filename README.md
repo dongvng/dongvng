@@ -1,6 +1,6 @@
 ### Hi there 👨‍💻
 
-## i'm a javascript/typescript developer, currently building POS system
+## i'm a javascript/typescript developer,
 
 <h3>Things I work with</h3>
 
